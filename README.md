@@ -18,7 +18,7 @@ The GitHub usr checker scans through a alternate list of names that should be ti
 - pip install poetry
 ## Authors
 
-👤 **Author1**
+👤 **incon ;)**
 
 - GitHub: [@reoccur](https://github.com/reoccur)
 - Twitter: [@bloodbeings](https://twitter.com/bloodbeings)
