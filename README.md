@@ -14,8 +14,8 @@ The GitHub usr checker scans through a alternate list of names that should be ti
 ## Getting Started
 
 ### PACKAGES
--pip install pyproject
--pip install poetry
+~pip install pyproject
+~pip install poetry
 ## Authors
 
 👤 **Author1**
