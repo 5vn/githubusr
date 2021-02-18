@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # GitHub username checker
 
 > This project was promted to me to try when i saw my buddy make a username checker for repl.it.
