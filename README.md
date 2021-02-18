@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/R1c7rUJA7uMoM/giphy.gif" width="300">
+
+
 # GitHub username checker
 
 > This project was promted to me to try when i saw my buddy make a username checker for repl.it.
